@@ -4,10 +4,10 @@
 	"description": "Makes ore into a usable form, complex but simple with unloaders.",
 	"liquidCapacity": 50,
 	"results": [
-			{"item": "gold-powder", "amount": 100},
+			{"item": "gold-powder", "amount": 150},
 			{"item": "pure-gold", "amount": 10},
 			{"item": "thorium", "amount": 1},
-			{"item": "lead", "amount": 200},
+			{"item": "lead", "amount": 100},
 			{"item": "titanium", "amount": 100},
 	],
 
