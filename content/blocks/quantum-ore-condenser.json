@@ -6,9 +6,7 @@
 	"results": [
 			{"item": "gold-powder", "amount": 25},
 			{"item": "pure-gold", "amount": 5},
-			{"item": "thorium", "amount": 5},
-			{"item": "lead", "amount": 5},
-			{"item": "titanium", "amount": 5},
+			{"item": "thorium", "amount": 5}
 	],
 
 	"size": 4,
@@ -24,7 +22,12 @@
         	"liquid": {
             		"liquid": "ore-slag",
             		"amount": 0.5
-        	}
+        	},
+		"items": {
+			"items": [
+				{ "item": "quantum-particles", "amount": 1 }
+			]
+		},
     	},
 	"requirements": [
 		{ "item": "lead", "amount": 500 },
